@@ -9,5 +9,6 @@ public class input {
         System.out.println("111111111111");
         System.out.println("2222222222222222");
         System.out.println("333333333333333");
+        System.out.println("master test");
     }
 }
