@@ -11,5 +11,6 @@ public class input {
         System.out.println("333333333333333");
         System.out.println("master test");
         System.out.println("hot-fix 111111");
+        System.out.println("ssh test");
     }
 }
